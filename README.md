@@ -4,7 +4,6 @@ record leetcode.com history
 
 ## 理论基础
 
-
 |**数组**
 |**链表**  
 | **栈**
